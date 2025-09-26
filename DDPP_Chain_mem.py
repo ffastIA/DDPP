@@ -24,7 +24,7 @@ st.set_page_config(
 # =====================================================================================
 
 # ============================ CHAVES DO SISTEMA ===============================
-deploy = False # False == roda localmente / True == versão para deploy
+deploy = True # False == roda localmente / True == versão para deploy
 cria_vector = False  # False == só carrega a vector store / True == cria a vector store
 # ===============================================================================
 
