@@ -230,7 +230,7 @@ else:
 # 6. TÍTULO E DESCRIÇÃO DA PÁGINA PELO STREAMLIT
 # -----------------------------------------------------------------------------
 
-st.title("🧠 PROJETO DESEPERTAR DIGITAR")
+st.title("🧠 PROJETO DESPERTAR DIGITAR")
 st.markdown("""
 Esta aplicação permite que você consulte os projetos Despertar Digital usando Inteligência Artificial **com memória conversacional**.
 Faça perguntas sobre seus objetivos, indicadores e benefícios! 
